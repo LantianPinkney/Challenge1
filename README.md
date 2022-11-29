@@ -15,6 +15,8 @@ Even though accessibility is a broad topic that can include complex requirements
 * Title elements contain a concise, descriptive title
 * Apply **Scout Rule**
 
+## Screenshot of Web Application
+
  
 ## Table of Contents
 
